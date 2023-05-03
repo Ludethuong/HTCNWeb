@@ -113,7 +113,7 @@ function productHandlerSale(product) {
                     </div>
                     <div class="info-product">
                         <div class="name">${product.title}</div>
-                        <div class="price">${product.price}<span>VND</span></div>
+                        <div class="price"><del style="text-decoration: line-through; color: black;">${product.price}</del> &nbsp ${product.price-product.price*product.sale/100}<span>VND</span></div>
                     </div>
                 </a>
     `
