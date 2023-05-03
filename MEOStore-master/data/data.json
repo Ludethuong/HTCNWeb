@@ -1,0 +1,192 @@
+[
+    {
+        "id": 0,
+        "title": "TẤY TẾ BÀO CHẾT ROSETTE",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "chăm sóc da",
+        "details": "- Tẩy tế bào chết ngon-bổ-rẻ từ Nhật hơn 80 năm nay vẫn được ưa chuộng trên toàn thế giới và được nhận cực nhiều review tích cực <br>- Nếu đang đắn đo chọn loại tẩy tế bào chết nào lành tính dịu nhẹ thì nên chọn ngay em dưới đây nhé!<br>- Màu xanh: dành cho da hỗn hợp thiên dầu và da dầu, chiết xuất từ 3 loại trái cây giúp thanh lọc da hiệu quả<br>- Màu hồng: dành cho da khô và da nhạy cảm, chiết xuất từ đậu nành lên men giúp bổ sung độ ẩm cho da khỏi căng khô" ,
+        "tag":"new"
+    },
+    {
+        "id": 1,
+        "title": "NEUTROGENA - KEM DƯỠNG ẨM",
+        "price": 419000,
+        "image": "../image/Product/product2.jpg",
+        "type": "chăm sóc da",
+        "details":"- NEUTROGENA - KEM DƯỠNG ẨM VÀ CẤP NƯỚC LÝ TƯỞNG CHO DA LUÔN CĂNG BÓNG minisize 15g<br>- Là dòng kem dưỡng chuyên dành cho “da dầu, da khô thiếu nước”, nhưng kết cấu cực mỏng nhẹ, thấm nhanh và đặc biệt không gây bí da hoặc phát sinh mụn<br>- Chứa các thành phần dưỡng ẩm cơ bản như Glycerin, Sodium Hyaluronate và chất làm mướt da giúp kem khi lên da có kết cấu mượt mà, dễ chịu<br>- Thẩm thấu vào da nhanh chính là điểm cộng cực lớn của sản phẩm dành cho các nàng bận rộn, hay “sốt ruột” chờ kem khô để makeup mỗi sáng<br>- Giúp da bạn luôn có độ ẩm lí tưởng nhất, để da luôn tươi mới, mềm mịn và căng mọng.",
+        "tag":"hot"
+    },
+    {
+        "id": 2,
+        "title": "𝐏𝐚𝐮𝐥𝐚'𝐬 𝐂𝐡𝐨𝐢𝐜𝐞 𝐒𝐊𝐈𝐍 𝐏𝐄𝐑𝐅𝐄𝐂𝐓𝐈𝐍𝐆 𝟐% 𝐁𝐇𝐀 𝐋𝐈𝐐𝐔𝐈𝐃 𝐄𝐗𝐅𝐎𝐋𝐈𝐀𝐍𝐓 ",
+        "price": 319000,
+        "image": "../image/Product/product3.jpg",
+        "type": "chăm sóc da",
+        "details":"BHA hoạt động theo nguyên lý phá vỡ liên kết của lớp sừng và đi sâu vào lỗ chân lông có chứa bã nhờn, giúp tẩy tế bào chết và tăng cường khả năng tái tạo da<br> PC BHA 2% sở hữu độ PH tối ưu từ 3,2 - 3,8, không chứa cồn khô, không chứa các thành phần gây kích ứng nên rất rất thân thiện với mọi loại da<br>-  Công dụng chính:<br>+ BHA có khả năng làm sạch lớp tề bào trên bề mặt tạo bề mặt da mịn màng, thông thoáng lỗ chân lông<br>+ Tăng khả năng sản sinh collagen, giúp da sáng và đều màu hơn<br>+ Đẩy mụn ẩn và tiêu diệt vi khuẩn hình thành mụn<br>+ Giảm mụn đầu đen<br>+ Cân bằng lượng dầu trên da",
+        "tag":"hot"
+    },
+    {
+        "id": 3,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 4,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 5,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"sale"
+    },
+    {
+        "id": 6,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"new"
+    },
+    {
+        "id": 7,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 8,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 9,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"new"
+    },
+    {
+        "id": 10,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 11,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"new"
+    },
+    {
+        "id": 12,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 13,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 14,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 15,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"sale"
+    },
+    {
+        "id": 16,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 17,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"hot"
+    },
+    {
+        "id": 18,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"sale"
+    },
+    {
+        "id": 19,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"new"
+    },
+    {
+        "id": 20,
+        "title": "KAT STRIPED SHIRT",
+        "price": 319000,
+        "image": "../image/Product/product1.jpg",
+        "type": "son",
+        "details":"",
+        "tag":"new"
+    }
+    
+]
